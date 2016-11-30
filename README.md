@@ -1,3 +1,7 @@
+This is me fooling around with React. The goal is to understand it better and try some things out on my own, like hooking up to a local WordPress install via the WP REST API.
+
+I've worked with this stuff for awhile now, but only in a team context, where someone else handled all the setup. So there are some consderable gaps in my knowledge and that I'd like to fill by messing around, breaking stuff and figuring out how to fix it.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
